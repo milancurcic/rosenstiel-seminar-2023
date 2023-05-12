@@ -2,6 +2,6 @@
 
 * Meteorologist and oceanographer
 * Assistant Scientist at the Rosenstiel School 🌊
-* Published author of a computer programming textbook 📖
-* Passionate about technology, computing, and science
+* Passionate about technology and computing in science
+* Published author of a bestselling computer programming textbook 📖
 * More at [milancurcic.com](https://milancurcic.com)

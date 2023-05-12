@@ -1,8 +1,8 @@
-## Advancing Earth System Prediction by Integrating Machine Learning and State-of-the-Art Measurements
+## Advancing Earth System Prediction with Machine Learning and State-of-the-Art Observations
 
 _Milan Curcic_
 
-22 May 2023
+23 May 2023
 
 Rosenstiel School, University of Miami
 
