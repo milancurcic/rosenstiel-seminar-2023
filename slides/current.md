@@ -6,6 +6,18 @@
 <section>
 
 ## Joining the SUSTAIN lab (2018)
+
+<img width=100% src="assets/sustain.jpg"></img>
+</section>
+
+<section>
+
+## Joining the SUSTAIN lab (2018)
+
+* Can we reproduce previous laboratory results?
+* What is the magnitude of air-sea drag in extreme wind conditions?
+* What physical processes govern it?
+* NSF: Air-Sea Momentum Transfer in Extreme Wind Conditions ($747K)
 </section>
 
 
