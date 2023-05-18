@@ -34,13 +34,16 @@
     <li>Bullet 2</li>
     <li>Bullet 3</li>
   </ul>
+  Curcic et al. (2016, GRL)
 </div>
 
 <div style="flex: 1">
-  <img height=90% src="assets/Curcic_etal_2016_GRL_fig02.png"></img>
+  <img height=80% src="assets/Curcic_etal_2016_GRL_fig02.png"></img>
 </div>
 
 </div>
+
+
 </section>
 
 
@@ -73,7 +76,9 @@
 
 <section>
 
-<img width=700 src="assets/Curcic_etal_2016_GRL_fig05.png"></img>
+## Scale-dependent diffusivity during Hurricane Isaac passage
+
+<img width=700 src="assets/Curcic_etal_2016_GRL_fig05b.png"></img>
 </section>
 
 

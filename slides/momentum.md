@@ -7,7 +7,7 @@
 * Even with waves, coupled models lack momentum closure.
 
 <div class="fragment" style="font-style: italic;">
-$\rightarrow$
+$\Rightarrow$
 
 Can we achieve momentum closure in a coupled atmosphere-wave-ocean system?
 </div>
@@ -56,6 +56,8 @@ $\rightarrow$ Obviously and mathematically correct!
 ## Atmosphere-ocean momentum closure with waves
 
 <img class="r-stretch" src="assets/momentum-coupling-diagram.png">
+
+<div class="reference">Curcic (2015)</div>
 </section>
 
 <section>
@@ -86,7 +88,7 @@ $$
 </section>
 
 
-<section>
+<section style="outline: 1px solid red;">
 
 ## Atmosphere-ocean momentum closure with waves 💡
 
@@ -109,4 +111,8 @@ $$
 \dfrac{\partial (\rho_w \mathbf{u})}{\partial t} + \nabla \left( \rho_w \mathbf{u} \right)
  = - \nabla p_w - \rho_w \mathbf{f} \times \mathbf{u} + SGS_w + \color{blue}{\dfrac{\partial \tau_w}{\partial z}}
 $$
+
+<br>
+
+<div class="reference">Curcic (2015)</div>
 </section>

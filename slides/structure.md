@@ -11,7 +11,5 @@
 
 ## Themes
 
-Theory <=> observation <=> modeling
-
-Papers <=> data <=> code
+Theory $\Leftrightarrow$ observation $\Leftrightarrow$ modeling
 </section>
