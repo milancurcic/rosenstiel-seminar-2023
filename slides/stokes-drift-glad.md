@@ -5,15 +5,32 @@
 
 <section>
 
+## Deepwater Horizon oil spill (2010)
+
+<img height=300 src=assets/deepwater-horizon1.jpg></img>
+<img height=300 src=assets/deepwater-horizon2.jpg></img>
+</section>
+
+<section>
+
+## Consortium for Advanced Research on Transport of Hydrocarbon in the Environment (CARTHE)
+
+<img width=60% src=assets/carthe.png></img>
+<div class="reference"><a href="https://carthe.org">carthe.org</a></div>
+</section>
+
+
+<section>
+
 <div style="display: flex; flex-direction: row;">
 
 <div style="flex: 1">
   <ul style="margin-top: 100px">
-    <li>In August 2012, Hurricane Isaac passed over ~200 surface drifters.</li>
+    <li>In August 2012, Hurricane Isaac passed over ~200 surface drifters deployed by CARTHE.</li>
     <li>We ran the coupled model to simulate atmosphere, waves, and ocean circulation.</li>
     <li>We simulated transport using currents with and without wave-induced drift.</li>
   </ul>
-  $\mathbf{u_L} = \mathbf{u_E} + \mathbf{u_{St}}$
+  $\color{red}{\mathbf{u_L}}\color{black}{} = \color{green}{\mathbf{u_E}}\color{black}{} + \color{blue}{\mathbf{u_{St}}}$
 </div>
 
 <div style="flex: 1">
@@ -26,23 +43,23 @@
 
 <section>
 
+### Wave-induced drift during hurricane passage
+
 <div style="display: flex; flex-direction: row;">
 
 <div style="flex: 1">
   <ul style="margin-top: 100px">
-    <li>Some longer text, let's see how long it can go</li>
-    <li>Bullet 2</li>
-    <li>Bullet 3</li>
+    <li>Transport due to Stokes drift only ($\color{blue}{\mathbf{u_{St}}}$)
+    <li>Counter-clockwise drift on the right-hand size</li>
+    <li>Clockwise drift on the left-hand size</li>
   </ul>
-  Curcic et al. (2016, GRL)
+  <p class="fragment">$\rightarrow$ previously unobserved phenomenon!</p>
 </div>
 
 <div style="flex: 1">
   <img height=80% src="assets/Curcic_etal_2016_GRL_fig02.png"></img>
 </div>
-
 </div>
-
 
 </section>
 
@@ -52,33 +69,27 @@
 ### Evolution of a group of drifters on the right-hand side of Isaac
 
 <img width=600 src="assets/Curcic_etal_2016_GRL_fig03.png"></img>
+
+<div class="reference"><a href="https://doi.org/10.1002/2015GL067619">Curcic et al. (2016, GRL)</a></div>
 </section>
 
 
 <section>
 
-<div style="display: flex; flex-direction: row;">
+### Stokes drift necessary to reproduce observed velocities
 
-<div style="flex: 1">
-  <ul style="margin-top: 100px">
-    <li>Some longer text, let's see how long it can go</li>
-    <li>Bullet 2</li>
-    <li>$\mathbf{u_L} = \mathbf{u_E} + \mathbf{u_{St}}$</li>
-  </ul>
-</div>
+<img width=700 src="assets/Curcic_etal_2016_GRL_fig04a.png"></img>
 
-<div style="flex: 1">
-  <img height=80% src="assets/Curcic_etal_2016_GRL_fig04.png"></img>
-</div>
-
-</div>
+<div class="reference"><a href="https://doi.org/10.1002/2015GL067619">Curcic et al. (2016, GRL)</a></div>
 </section>
 
 <section>
 
-## Scale-dependent diffusivity during Hurricane Isaac passage
+### Ocean surface diffusivity order of magnitude larger during hurricane passage across all scales!
 
 <img width=700 src="assets/Curcic_etal_2016_GRL_fig05b.png"></img>
+
+<div class="reference"><a href="https://doi.org/10.1002/2015GL067619">Curcic et al. (2016, GRL)</a></div>
 </section>
 
 
