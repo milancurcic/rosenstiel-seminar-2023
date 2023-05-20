@@ -1,13 +1,23 @@
 <section>
 
-## 2. Current
+## What are we still missing?
+
+* Waves and stress remain difficult to measure in strong winds
+* We actually still have little clue how large is air-sea drag is in major hurricane-force winds.
+* Models are pushed to their limits, but we still lack data.
+
+<p class="fragment">
+  $\rightarrow$ We need data in extreme conditions to be able to improve prediction models.
+</p>
 </section>
 
 <section>
 
-## Joining the SUSTAIN lab (2018)
+## Joining the SUSTAIN laboratory
 
 <img width=100% src="assets/sustain.jpg"></img>
+
+<div class="reference"><a href="https://sustain.earth.miami.edu">sustain.earth.miami.edu</a></div>
 </section>
 
 <section>
@@ -17,18 +27,21 @@
 * Can we reproduce previous laboratory results?
 * What is the magnitude of air-sea drag in extreme wind conditions?
 * What physical processes govern it?
-* NSF: Air-Sea Momentum Transfer in Extreme Wind Conditions ($747K)
+* NSF: Air-Sea Momentum Transfer in Extreme Wind Conditions ($747K to U. Miami)
+
+<p class="fragment">
+  $\rightarrow$ My first grant proposal ever, and awarded! 🎯🍀🎉
+</p>
 </section>
 
 
 <section>
 
-## Revised Estimates of Air-Sea Drag in Strong Winds (2020)
+## Revised Estimates of Air-Sea Drag in Strong Winds
 
-* Air-sea drag remains elusive in strong winds
-* A key parameter that govers atmosphere-ocean exchange
-* Crucial to get right for accurage hurricane prediction
-* Can we measure it in the lab?
+* Reproduce pioneering lab results by Donelan et al., 2004 (GRL)
+  that first discovered drag saturation in strong winds.
+* Validation study before we collect measurements in extreme winds.
 
 </section>
 
@@ -37,6 +50,8 @@
 ### Laboratory Setup
 
 <img class="r-stretch" src="assets/Curcic_Haus_2020_GRL_fig01.jpg">
+
+<div class="reference"><a href="https://doi.org/10.1029/2020GL087647">Curcic and Haus (2020, GRL)</a></div>
 </section>
 
 <section>
@@ -44,6 +59,8 @@
 ### New measurements of air-sea drag
 
 <img class="r-stretch" src="assets/Curcic_Haus_2020_GRL_fig02.jpg">
+
+<div class="reference"><a href="https://doi.org/10.1029/2020GL087647">Curcic and Haus (2020, GRL)</a></div>
 </section>
 
 <section>
@@ -51,6 +68,8 @@
 ### Discovery of a programming error in the old MATLAB code
 
 <img class="r-stretch" src="assets/Curcic_Haus_2020_GRL_fig03.jpg">
+
+<div class="reference"><a href="https://doi.org/10.1029/2020GL087647">Curcic and Haus (2020, GRL)</a></div>
 </section>
 
 <section>
@@ -64,6 +83,10 @@
     <li>Our discovery was featured in a Nature Technology feature article.</li>
     <li>Emphasizes the need for open software, data, and science practices.</li>
   </ul>
+  <p class="fragment">
+    $\rightarrow$ No longer sufficient to publish papers and data!
+    We must publish data processing and analysis code as well, end-to-end.
+  </p>
 </div>
 
 <div style="flex: 1">
@@ -81,6 +104,8 @@
 ### Does air-sea drag truly decrease in extreme winds?
 
 <img class="r-stretch" src="assets/sustain-drag-2023.png">
+
+<div class="reference">Curcic et al. (2023) in preparation for GRL</div>
 </section>
 
 
@@ -101,17 +126,3 @@
 </section>
 
 <section>
-
-### Dispersion of short-waves riding on long waves
-
-Dispersion relationship: $\omega = \sqrt{gk} + kU$
-
-Conservation of wave crests: $\dfrac{\partial k}{\partial t} + \dfrac{\partial \omega}{\partial x} = 0$
-</section>
-
-
-<section>
-
-### Wave modulation theory
-
-</section>

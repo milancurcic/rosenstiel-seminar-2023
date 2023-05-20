@@ -285,15 +285,15 @@ $
 
 ## UWIN-CM and UMWM impacts on the field
 
-* Wave impacts on ocean transport (Curcic et al., 2016)
-* Wave impacts on drag at landfall (Chen and Curcic, 2016)
-* Implications for storm surge prediction (Dietrich et al., 2018)
-* Drifter drogue-loss detection and current estimation (Haza et al., 2018; 2019)
-* Uncertainty quantification in hurricanes (Li et al., 2020)
-* Whitecap and aerosol production in NASA's global model (GEOS)
-* BSISO prediction (Wang et al., 2021)
-* MJO prediction (Savarin and Chen, 2022a; 2022b)
-* Sea-spray generation (Barr et al., 2022)
+* Wave impacts on ocean transport (*Curcic et al., 2016*)
+* Wave impacts on drag at landfall (*Chen and Curcic, 2016*)
+* Implications for storm surge prediction (*Dietrich et al., 2018*)
+* Drifter drogue-loss detection and current estimation (*Haza et al., 2018; 2019*)
+* Uncertainty quantification in hurricanes (*Li et al., 2020*)
+* Whitecap and aerosol production in NASA's global model (GEOS, *Darmenov et al., 2018*)
+* BSISO prediction (*Wang et al., 2021*)
+* MJO prediction (*Savarin and Chen, 2022a; 2022b*)
+* Sea-spray generation (*Barr et al., 2022*)
 
 <p class="fragment">...and more.</p>
 </section>

@@ -15,6 +15,8 @@
 
 ## Consortium for Advanced Research on Transport of Hydrocarbon in the Environment (CARTHE)
 
+TODO: move diagram to the left and add CARTHE and GOMRI logos.
+
 <img width=60% src=assets/carthe.png></img>
 <div class="reference"><a href="https://carthe.org">carthe.org</a></div>
 </section>
