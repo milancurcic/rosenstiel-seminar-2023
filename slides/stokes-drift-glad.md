@@ -97,10 +97,21 @@ TODO: move diagram to the left and add CARTHE and GOMRI logos.
 
 <section>
 
-## Takeaways
+## What are we still missing?
 
-* Hurricane waves significantly alter the ocean surface transport.
-* Stokes drift contributes ~20% to the total transport.
-* Ocean surface diffusivity an order of magnitude higher during hurricane passage.
+* Waves and stress remain difficult to measure in strong winds
+* We have little clue how large is air-sea drag is in major hurricane-force winds.
+* Models are pushed to their limits and but we lack data.
+
+<p class="fragment" style="font-style: italic;">
+  $\rightarrow$ We need data in extreme conditions to be able to improve prediction models.
+</p>
 </section>
 
+
+<section>
+
+*"A great scientist should be versed in theory, experimentation, and modeling."*
+
+<p style="float: right; font-style: italic;">—Prof. Emeritus Mark Donelan, 2011</p>
+</section>

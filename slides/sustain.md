@@ -1,18 +1,5 @@
 <section>
 
-## What are we still missing?
-
-* Waves and stress remain difficult to measure in strong winds
-* We actually still have little clue how large is air-sea drag is in major hurricane-force winds.
-* Models are pushed to their limits, but we still lack data.
-
-<p class="fragment">
-  $\rightarrow$ We need data in extreme conditions to be able to improve prediction models.
-</p>
-</section>
-
-<section>
-
 ## Joining the SUSTAIN laboratory
 
 <img width=100% src="assets/sustain.jpg"></img>

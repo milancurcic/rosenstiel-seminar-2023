@@ -188,6 +188,7 @@ $
   * HYCOM for ocean circulation
   * ESMF for coupling, interpolation, and parallelism
 * Deployed and ran in an "operational" setting on IDSC, NASA, and DOE supercomputers
+  and in support of **5** major field campaigns
 * Later iteration of the coupled system (EarthVM) in continued development
   here at the Rosenstiel and testing on IDSC Triton
 
@@ -236,7 +237,7 @@ $
   </p>
 
   <p class="fragment">
-    $\rightarrow$ Simple heuristics won't work; need explicit modeling and/or machine learning.
+    $\rightarrow$ Simple heuristics won't work; need explicit modeling (expensive) and/or machine learning (need data).
   </p>
 
 </div>
@@ -286,13 +287,12 @@ $
 ## UWIN-CM and UMWM impacts on the field
 
 * Wave impacts on ocean transport (*Curcic et al., 2016*)
-* Wave impacts on drag at landfall (*Chen and Curcic, 2016*)
-* Implications for storm surge prediction (*Dietrich et al., 2018*)
+* Hurricane landfall impacts (*Chen and Curcic, 2016*; *Kerns and Chen, 2023*)
+* Storm surge prediction (*Dietrich et al., 2018*)
 * Drifter drogue-loss detection and current estimation (*Haza et al., 2018; 2019*)
-* Uncertainty quantification in hurricanes (*Li et al., 2020*)
-* Whitecap and aerosol production in NASA's global model (GEOS, *Darmenov et al., 2018*)
-* BSISO prediction (*Wang et al., 2021*)
-* MJO prediction (*Savarin and Chen, 2022a; 2022b*)
+* Uncertainty quantification in hurricanes (*Li et al., 2019*)
+* Whitecaps and aerosol production in NASA's global model (GEOS, *Darmenov et al., 2018*)
+* BSISO (*Wang et al., 2021*) and MJO prediction (*Savarin and Chen, 2022a; 2022b*)
 * Sea-spray generation (*Barr et al., 2022*)
 
 <p class="fragment">...and more.</p>

@@ -1,4 +1,3 @@
-
 <section style="display: flex; flex-direction: column;">
 
 <div style="flex: 8">
@@ -26,7 +25,7 @@
   </div>
 
   <div style="flex: 2">
-    <img width=300 src="assets/asis.png">
+    <img src="assets/asis.png">
   </div>
 
 </div>
@@ -36,6 +35,45 @@
   <img height=90 src="assets/logos/onr.png"></img>
   <div class="reference"><a href="https://doi.org/10.1175/BAMS-D-20-0304.1">Haus et al. (2022, BAMS)</a></div>
 </div>
+
+</section>
+
+
+<section style="display: flex; flex-direction: column;">
+
+<div style="flex: 8">
+
+## Air-Sea Interaction Spar (ASIS)
+
+  <div style="display: flex; flex-direction: row;">
+
+  <div style="flex: 2">
+    <ul style="margin-top: 50px">
+      <li>Designed to be a stationary spar for windsea and a pitch-and-roll buoy for swell</li>
+      <li>Optimized for flux and wave measurements with minimal flow distortion</li>
+      <li>Battery operated with up to 3 months life</li>
+      <li>2 sonic anemometers, 3 motion sensors, 6 wave sensors, and standard meteorology package</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1">
+    <img src="assets/asis.png">
+  </div>
+
+</div>
+
+<div style="flex: 2">
+  <img height=90 src="assets/logos/clasi.png"></img>
+  <img height=90 src="assets/logos/onr.png"></img>
+  <div class="reference"><a href="https://doi.org/10.1175/BAMS-D-20-0304.1">Haus et al. (2022, BAMS)</a></div>
+</div>
+
+</section>
+
+
+<section>
+
+## TODO: ASIS deployment in pictures
 
 </section>
 
@@ -76,11 +114,16 @@ Fit $[U_z, H_s, T_m, \Delta T] \rightarrow \overline{-u'w'}$
 
 <section>
 
-## What is machine learning? A 10-second explanation
+## What is machine learning? A 20-second explanation
 
-Input $\rightarrow$ Model $\rightarrow$ Output
+<p class="fragment">
+  In traditional programming, we write a program that takes an input and produces an output.
+</p>
 
-Input $\rightarrow$ Model $\rightarrow$ Output
+<p class="fragment">
+  In contrast, machine learning produces a program based on sets of inputs and outputs.
+</p>
+
 </section>
 
 <section>

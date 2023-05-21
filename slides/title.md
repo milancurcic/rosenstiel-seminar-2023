@@ -22,3 +22,26 @@ Rosenstiel School, University of Miami
 </div>
 
 </section>
+
+<section>
+
+## About me
+
+* Meteorologist and oceanographer
+* Assistant Scientist at the Rosenstiel School 🌊
+* Passionate about technology and computing for science 🖥️
+* Author of a bestselling computer programming textbook 📖
+* More at [milancurcic.com](https://milancurcic.com)
+</section>
+
+
+<section>
+
+## Themes
+
+<p class="fragment">Theory $\Leftrightarrow$ Observation $\Leftrightarrow$ Modeling</p>
+
+<p class="fragment">Field $\Leftrightarrow$ Laboratory</p>
+
+<p class="fragment">Numerical Modeling $\Leftrightarrow$ Machine Learning</p>
+</section>
