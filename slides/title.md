@@ -14,11 +14,11 @@ Rosenstiel School, University of Miami
 </div>
 
 <div style="flex: 2;">
-  <img height=100 src="assets/logos/rosenstiel.png"></img>
-  <img height=100 src="assets/logos/nsf.jpg"></img>
-  <img height=100 src="assets/logos/nasa.png"></img>
-  <img height=100 src="assets/logos/onr.png"></img>
-  <img height=100 src="assets/logos/clasi.png"></img>
+  <img height=90 src="assets/logos/rosenstiel.png"></img>
+  <img height=90 src="assets/logos/nsf.jpg"></img>
+  <img height=90 src="assets/logos/nasa.png"></img>
+  <img height=90 src="assets/logos/onr.png"></img>
+  <img height=90 src="assets/logos/gomri.png"></img>
 </div>
 
 </section>

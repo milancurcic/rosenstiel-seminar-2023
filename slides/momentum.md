@@ -253,14 +253,14 @@ $
 
 <section>
 
-### How about the momentum loss to waves?
+## ~10% overall loss of momentum to waves
 
 <img class="r-stretch" src="assets/momentum_budget_stress_deficit.png">
 
 <div class="reference">Curcic (2015)</div>
 </section>
 
-
+<!--
 <section>
 
 ### How about the momentum loss to waves?
@@ -279,7 +279,7 @@ $
 
 <div class="reference">Curcic (2015)</div>
 </section>
-
+-->
 
 <section>
 

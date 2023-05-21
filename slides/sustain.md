@@ -22,9 +22,8 @@
 
 <section>
 
-## Joining the SUSTAIN lab (2018)
+## Joining the SUSTAIN laboratory
 
-* Can we reproduce previous laboratory results?
 * What is the magnitude of air-sea drag in extreme wind conditions?
 * What physical processes govern it?
 * NSF: Air-Sea Momentum Transfer in Extreme Wind Conditions ($747K to U. Miami)
@@ -34,20 +33,9 @@
 </p>
 </section>
 
-
 <section>
 
-## Revised Estimates of Air-Sea Drag in Strong Winds
-
-* Reproduce pioneering lab results by Donelan et al., 2004 (GRL)
-  that first discovered drag saturation in strong winds.
-* Validation study before we collect measurements in extreme winds.
-
-</section>
-
-<section>
-
-### Laboratory Setup
+### Revised Estimates of Air-Sea Drag in Strong Winds
 
 <img class="r-stretch" src="assets/Curcic_Haus_2020_GRL_fig01.jpg">
 
@@ -115,14 +103,22 @@
 
 <img width="45%" src="assets/Tan_etal_2023_JGR_fig06.jpg">
 <img width="45%" src="assets/Tan_etal_2023_JGR_fig07.jpg">
+
+<div class="reference"><a href="https://doi.org/10.1029/2022JC019505">Tan et al. (2023, JGR-Oceans)</a></div>
 </section>
 
 <section>
 
-### Short-wave energy and steepness as function of long-wave phase
+### Short-wave energy and steepness reveal sheltering from long waves
 
 <img width="50%" src="assets/Tan_etal_2023_JGR_fig09.jpg">
 <img width="40%" src="assets/Tan_etal_2023_JGR_fig13.jpg">
+
+<div class="reference"><a href="https://doi.org/10.1029/2022JC019505">Tan et al. (2023, JGR-Oceans)</a></div>
 </section>
 
 <section>
+
+## TODO: Segway to CLASI
+
+</section>
