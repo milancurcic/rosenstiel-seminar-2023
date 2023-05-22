@@ -9,6 +9,40 @@
 
 <section>
 
+## Category 5 hurricane-force wind and waves in SUSTAIN
+
+<video
+  width=600
+  controls
+  data-autoplay
+  loop
+  src="assets/movies/sustain_high_wind.mp4"
+  type="video/mp4">
+</video>
+
+<div class="reference">Video credit: Peisen Tan</div>
+</section>
+
+
+<section>
+
+## *In situ* measurements in a finely controlled setting
+
+<video
+  width=800
+  controls
+  data-autoplay
+  loop
+  muted
+  src="assets/movies/sustain_low_wind.mp4"
+  type="video/mp4">
+</video>
+
+</section>
+
+
+<section>
+
 ## Joining the SUSTAIN laboratory
 
 * What is the magnitude of air-sea drag in extreme wind conditions?
@@ -40,7 +74,7 @@
 
 <section>
 
-### Discovery of a programming error in the old MATLAB code
+### Discovery of a programming error in the old MATLAB code that went into Donelan et al. (2004)
 
 <img class="r-stretch" src="assets/Curcic_Haus_2020_GRL_fig03.jpg">
 
@@ -58,7 +92,7 @@
     <li>Our discovery was featured in a Nature Technology feature article.</li>
     <li>Emphasizes the need for open software, data, and science practices.</li>
   </ul>
-  <p class="fragment">
+  <p class="fragment" style="font-style: italic;">
     $\rightarrow$ No longer sufficient to publish papers and data!
     We must publish data processing and analysis code as well, end-to-end.
   </p>
@@ -102,10 +136,4 @@
 <img width="40%" src="assets/Tan_etal_2023_JGR_fig13.jpg">
 
 <div class="reference"><a href="https://doi.org/10.1029/2022JC019505">Tan et al. (2023, JGR-Oceans)</a></div>
-</section>
-
-<section>
-
-## TODO: Segway to CLASI
-
 </section>

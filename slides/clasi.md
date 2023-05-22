@@ -70,11 +70,60 @@
 
 </section>
 
+<section>
+
+## ASIS deployment and recovery in pictures
+
+<img height=400 src="assets/clasi_asis_shipyard.jpg">
+</section>
 
 <section>
 
-## TODO: ASIS deployment in pictures
+## ASIS deployment and recovery in pictures
 
+<img height=400 src="assets/clasi_asis_deck.jpg">
+</section>
+
+
+<section>
+
+## ASIS deployment and recovery in pictures
+
+<img height=400 src="assets/asis_recovery.jpeg">
+</section>
+
+
+<section>
+
+## ASIS deployment and recovery in pictures
+
+<img height=400 src="assets/clasi_asis_revelle.jpg">
+<p class="reference">Image credit: Jill Zwierz</p>
+</section>
+
+
+<section>
+
+## ASIS deployment and recovery in pictures
+
+<img height=400 src="assets/clasi_um_group.png">
+</section>
+
+<section>
+
+## ASIS deployment and recovery in pictures
+
+<img height=400 src="assets/clasi_sam_medina.jpeg">
+<img height=400 src="assets/clasi_peisen_neil_armstrong.jpeg">
+</section>
+
+
+<section>
+
+## ASIS deployment and recovery in pictures
+
+<img height=400 src="assets/clasi_me_neil_armstrong.jpeg">
+<img height=400 src="assets/clasi_sunset.jpg">
 </section>
 
 
@@ -94,7 +143,7 @@
 <img width=600 src="assets/clasi_phase4_flux_scatter.png">
 
 <p class="fragment" style="font-style: italic;">
-  $\rightarrow$ Perfect candidate for machine learning!
+  $\rightarrow$ How to fit a model? Perfect candidate for machine learning!
 </p>
 </section>
 
@@ -110,27 +159,4 @@ Fit $[U_z, H_s, T_m, \Delta T] \rightarrow \overline{-u'w'}$
 <p class="fragment" style="font-style: italic;">
   $\rightarrow$ Neural networks are universal function approximators.
 </p>
-</section>
-
-<section>
-
-## What is machine learning? A 20-second explanation
-
-<p class="fragment">
-  In traditional programming, we write a program that takes an input and produces an output.
-</p>
-
-<p class="fragment">
-  In contrast, machine learning produces a program based on sets of inputs and outputs.
-</p>
-
-</section>
-
-<section>
-
-### What are neural networks all about?
-
-<img src="assets/neural_network.png">
-
-<div class="reference">Image credit: Michael Nielsen</div>
 </section>
