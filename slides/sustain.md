@@ -108,15 +108,6 @@
 
 </section>
 
-<section>
-
-### Does air-sea drag truly decrease in extreme winds?
-
-<img class="r-stretch" src="assets/sustain-drag-2023.png">
-
-<div class="reference">Curcic et al. (2023) in preparation for GRL</div>
-</section>
-
 
 <section>
 
@@ -136,4 +127,22 @@
 <img width="40%" src="assets/Tan_etal_2023_JGR_fig13.jpg">
 
 <div class="reference"><a href="https://doi.org/10.1029/2022JC019505">Tan et al. (2023, JGR-Oceans)</a></div>
+</section>
+
+
+<section>
+
+### Does air-sea drag truly decrease in extreme winds?
+
+<img class="r-stretch" src="assets/sustain-drag-2023.png">
+
+<div class="reference">Curcic et al. (2023) in preparation for GRL</div>
+</section>
+
+
+<section>
+
+## Field and laboratory data are complementary
+
+<img class="r-stretch" src="assets/obs_diagram.png">
 </section>

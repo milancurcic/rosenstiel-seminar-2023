@@ -11,14 +11,20 @@
 <img height=300 src=assets/deepwater-horizon2.jpg></img>
 </section>
 
-<section>
+<section style="display: flex; flex-direction: column;">
 
-## Consortium for Advanced Research on Transport of Hydrocarbon in the Environment (CARTHE)
+<div style="flex: 8">
 
-TODO: move diagram to the left and add CARTHE and GOMRI logos.
+### Consortium for Advanced Research on Transport of Hydrocarbon in the Environment (CARTHE)
 
-<img width=60% src=assets/carthe.png></img>
+<img height=400 src=assets/carthe.png></img>
 <div class="reference"><a href="https://carthe.org">carthe.org</a></div>
+</div>
+
+<div style="flex: 2">
+  <img height=90 src=assets/logos/carthe.png></img>
+  <img height=90 src=assets/logos/gomri.png></img>
+</div>
 </section>
 
 

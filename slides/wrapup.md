@@ -17,6 +17,8 @@
 
 * Profs. Brian Haus, Hans Graber, Will Drennan, Shane Elipot, Claire Paris, Nick Shay (U. Miami, OCE)
 * Prof. Lian Shen (U. Minnessota)
+* Dr. Pierre Sochala (Atomic Energy Commission, France)
+* Drs. Donifan Barahona and Katherine Breene (NASA Goddard)
 * Dr. Damian Rouson (Lawrence Berkeley Lab)
 * Dr. Ethan Gutmann (NCAR)
 * Prof. Nathan Laxague (U. New Hampshire)
@@ -29,5 +31,13 @@
 
 <section>
 
-# Thank you!
+## Takeaways
+
+* Work on long and hard problems; it pays off.
+* Modeling alone is insufficient; measurements are necessary.
+* Laboratory and field measurements are complementary.
+* Machine learning and traditional models are most powerful when used together.
+* Invest time and care in open source, open data, and open research; it pays off.
+
+<h1 class="fragment">Thank you!</h1>
 </section>

@@ -170,7 +170,8 @@ $
 $
 
 * Based on theory by Mcwilliams et al. (2004)
-* New terms responsible for enhanced upper-ocean mixing and near-surface transport
+* Responsible for enhanced upper-ocean mixing and near-surface transport
+* Ocean mixed layer too shallow in most climate models without this term (e.g. Li et al., 2016)
 
 <br>
 
@@ -190,7 +191,7 @@ $
 * Deployed and ran in an "operational" setting on IDSC, NASA, and DOE supercomputers
   and in support of **5** major field campaigns
 * Later iteration of the coupled system (EarthVM) in continued development
-  here at the Rosenstiel and testing on IDSC Triton
+  here at Rosenstiel and testing on IDSC Triton
 
 </section>
 
@@ -296,4 +297,12 @@ $
 * Sea-spray generation (*Barr et al., 2022*)
 
 <p class="fragment">...and more.</p>
+</section>
+
+
+<section>
+
+*"Model development is initially a thankless task. You can work on it for years and nobody will see that you're doing anything. But once it works and people start using it, you'll get many citations."*
+
+<p style="float: right; font-style: italic;">—Dr. Ashwanth Srinivasan, 2010</p>
 </section>
