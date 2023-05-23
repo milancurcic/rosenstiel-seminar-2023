@@ -302,7 +302,9 @@ $
 
 <section>
 
-*"Model development is initially a thankless task. You can work on it for years and nobody will see that you're doing anything. But once it works and people start using it, you'll get many citations."*
+*"Model development initially seems a thankless task.
+You can work on it for years and nobody will see that you're doing anything.
+But once it works and people start using it, you'll get many citations."*
 
 <p style="float: right; font-style: italic;">—Dr. Ashwanth Srinivasan, 2010</p>
 </section>

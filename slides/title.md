@@ -36,6 +36,34 @@ Rosenstiel School, University of Miami
 
 
 <section>
+<div style="display: flex; flex-direction: row;">
+
+<div style="flex: 1; margin-top: 50px">
+
+  <h2>Modern Fortran Book</h2>
+
+  <ul> 
+    <li>Learn modern Fortran from the ground up</li>
+    <li>Practical, hands-on examples</li>
+    <li>3000+ copies sold, 4.8 stars on Amazon</li>
+    <li>
+      First 5 students to email me at <a href="mailto:mcurcic@miami.edu">mcurcic@miami.edu</a>
+      will get an author's copy.
+    </li>
+  </ul> 
+</div>
+
+<div style="flex: 1;">
+  <a href="https://www.manning.com/books/modern-fortran">
+    <img src="assets/modern-fortran-cover.png"></img>
+  </a>
+</div>
+
+</div>
+
+</section>
+
+<section>
 
 ## Themes
 
