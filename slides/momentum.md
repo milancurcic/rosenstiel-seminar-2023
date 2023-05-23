@@ -257,6 +257,8 @@ $
 
 ## ~10% overall loss of momentum to waves
 
+$\tau_w / \tau_a$
+
 <img class="r-stretch" src="assets/momentum_budget_stress_deficit.png">
 
 <div class="reference">Curcic (2015)</div>
@@ -295,6 +297,7 @@ $
 * Whitecaps and aerosol production in NASA's global model (GEOS, *Darmenov et al., 2018*)
 * BSISO (*Wang et al., 2021*) and MJO prediction (*Savarin and Chen, 2022a; 2022b*)
 * Sea-spray generation (*Barr et al., 2022*)
+* Stress calculation from UMWM implemented in NOAA's operational WaveWatch III model
 
 <p class="fragment">...and more.</p>
 </section>
